@@ -1,0 +1,12 @@
+
+.harvardLogo{
+    display: inline-block;
+    left: 16px;
+    bottom: 0;
+    position: absolute;
+    background-image: url('../img/hls_exec_ed_white.png') !important;
+    background-repeat: no-repeat !important;
+    background-size: 170px 62px;
+    width: 170px;
+    height: 62px;
+}
